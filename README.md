@@ -6,8 +6,8 @@
 <pre>
     About ME :
     
-    💼 ITEBA • Maching Learning Programmer • Platform Engineer • Project Manager
-    💻 Deeplearning • Python Programming • JS • C++ • FIGMA • MS Excel • Java
+    💼 ITEBA • Maching Learning Programmer • Project Manager
+    💻 Python Programming • C++ • FIGMA • MS Excel • Java
     🎮 Music • Games • Code • Art 
     🐾 Cat • Chicken • Cookies • 🐤🐥
     😆 "Menjadi anime itu mustahil, tapi ngoding sampai lupa tidur itu realitas."
@@ -21,6 +21,6 @@
 </div>
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MunMunDyka&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MunMunDyka&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MunMunDyka&layout=compact&theme=radical)
 
